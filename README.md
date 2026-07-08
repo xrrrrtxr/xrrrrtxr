@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi  👋
+-软件工程在读
+-想和大家一起交流学习
+-技术栈:C语言，JAVA，PYTHON
 <!--
 **xrrrrtxr/xrrrrtxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
